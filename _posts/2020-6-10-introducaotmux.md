@@ -7,7 +7,7 @@ categories: desktop linux
 
 Com o TMUX você pode criar várias sessões de terminal que podem ser abertas (anexadas) e fechadas (desanexadas) ou exibidas simultaneamente, tudo em uma única janela, aumentando assim sua produtividade.
 
-![tmux](/images/tmux.png)
+![tmux](/blog/images/tmux.png)
 
 ## Instalar o tmux
 
@@ -33,7 +33,7 @@ profjulianoramos@certificacoesnetbr:-$ tmux
 
 Observe que na parte inferior do seu terminal, terá algo como uma barra de tarefas verde. 
 
-![tmux janelas](/images/tmux2.png)
+![tmux janelas](/blog/images/tmux2.png)
 
 O asterisco mostra a janela que esta ativa.
 
@@ -41,7 +41,7 @@ Vamos criar algumas janelas para você alternar. Você deve chamar a central de 
 
 Observe na barra de tarefas que algo chamado **1:bash** foi adicionado.
 
-![tmux3](/images/tmux3.png)
+![tmux3](/blog/images/tmux3.png)
 
 Adicione mais uma janela. 
 
@@ -70,7 +70,7 @@ Você pode nomear sua janela atual usando a combinação:
 
 **[ctrl+b}** + , 
 
-![tmux4](/images/tmux4.png)
+![tmux4](/blog/images/tmux4.png)
 
 ## Criando painéis no tmux
 
@@ -82,7 +82,7 @@ Horizontal |  Vertical
 --- | --- |
 [ctrl+b]+% | [ctrl+b]+ "
 
-![tmux6](/images/tmux6.png)
+![tmux6](/blog/images/tmux6.png)
 
 Você alterna entre os painéis utilizando: **[crtrl+b]** + setas do teclado.
 
@@ -126,9 +126,3 @@ Agora tenho um grupo no telegram, para um bate papo mais direto sobre linux, apl
 
 <https://t.me/profjulianotux>
 
-
-
-## Veja também:
-- [Meus cursos](https://profjulianoramos.github.io/cursos/)
-- [Meu currículo](https://profjulianoramos.github.io/curriculo/)
-- [Aula particular e consultoria](https://profjulianoramos.github.io/consultoria/)
