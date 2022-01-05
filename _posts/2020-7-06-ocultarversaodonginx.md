@@ -15,7 +15,7 @@ curl -I https://your-domain
 
 Aliás, a saída do comando acima, também mostra versões do Apache. 
 
-![erro nginx](/images/nginx.jpg)
+![erro nginx](/blog/images/nginx.jpg)
 
 Como você pode observar na saída de erro da imagem, temos a versão do servidor, o que é uma falha de segurança. 
 
@@ -79,11 +79,6 @@ sudo nginx -s reload
 Neste artigo abordo como ocultar a versão do nginx no linux ou Unix. É sempre uma boa pedida, criar a politica de obscuridade. No entanto, manter um firewall ativo e buscar sempre atualizações de segurança é fundamental para que tudo ocorra bem.
 
 
-
-### Veja também:
-- [Meus cursos](https://profjulianoramos.github.io/cursos/)
-- [Meu currículo](https://profjulianoramos.github.io/curriculo/)
-- [Aula particular e consultoria](https://profjulianoramos.github.io/consultoria/)
 
 
 Commits
