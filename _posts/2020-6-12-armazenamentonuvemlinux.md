@@ -7,7 +7,7 @@ categories: Desktop Linux
 
 Podemos sincronizar diversos serviços de armazenamento da nuvem diretamente no nosso desktop linux, através de duas aplicações: **rcloneBrowser** e **rcloneTray**. 
 
-![rclone](/images/rbrowser.png)
+![rclone](/blog/images/rbrowser.png)
 
 Para instalar as duas aplicações, abra seu terminal:
 
@@ -20,7 +20,7 @@ sudo dpkg -i rclonetray_1.0.0_amd64.deb
 ## Configurar o Google Drive e One Driver
 Abra o rclone browser pelo seu menu de aplicativos, clique no botão **config**.
 
-![rclone browser](/images/rclone.png)
+![rclone browser](/blog/images/rclone.png)
 
 Tecle [n] para um novo serviço remoto.
 
@@ -73,8 +73,3 @@ Agora tenho um grupo no telegram, para um bate papo mais direto sobre linux, apl
 <https://t.me/profjulianotux>
 
 
-
-## Veja também:
-- [Meus cursos](https://profjulianoramos.github.io/cursos/)
-- [Meu currículo](https://profjulianoramos.github.io/curriculo/)
-- [Aula particular e consultoria](https://profjulianoramos.github.io/consultoria/)
