@@ -6,7 +6,7 @@ categories: Markdown
 ---
 **Mardown** é uma sintaxe usada para padronizar e facilitar formatação de texto na WEB, utilizada em aplicativos como o **slack** e aqui no **github**. 
 
-![markdown](/images/markdown.png)
+![markdown](/blog/images/markdown.png)
 
 > O markdown funciona como um conversos de texto para o HTML.
 
@@ -18,7 +18,7 @@ Você pode criar um arquivo de markdown, em praticamente qualquer editor de text
 
 O typora permite editar seus texto em Markdown de uma forma mais visual. Ele é ótimo para quem esta iniciando. 
 
-![typora](/images/typora.png)
+![typora](/blog/images/typora.png)
 
 Para instalar o Typora em seu Ubuntu, faça:
 
@@ -40,7 +40,7 @@ Se você usa outra distribuição, procure outros pacotes no link:
 
 O typora é bem simplista, ao iniciá-lo você já poderá começar a escrever suas documentações. Eu recomendo antes de tudo que você adicione o índice na lateral do aplicativo, como mostra a imagem abaixo:
 
-![typora](/images/typora1.png)
+![typora](/blog/images/typora1.png)
 
 O índice vai permitir que você navegue pela sua documentação através dos títulos e subtítulos. 
 
@@ -68,7 +68,7 @@ Para colocar uma palavra em itálico, você pode usar:
 
 Clicando com o botão direito, você abre um menu, com basicamente tudo que você precisa para formatar um documento.
 
-![menu](/images/menu.png)
+![menu](/blog/images/menu.png)
 
 ## Mas e o código markdown?
 
@@ -124,14 +124,14 @@ Existem duas formas de inserir um link em Markdown. Através de um link direto o
 Utilizamos os caracteres ```[]()```, dentro da chave o texto e dentro do parêntese o link, exemplo:
 
 ```markdown
-[blog do prof. Juliano](https://profjulianoramos.github.io)
+[blog do prof. Juliano](https://profjulianoramos.github.io/linux)
 ```
 
 ## Link direto
 Coloque o endereço URL dentro de chaves, exemplo:
 
 ```markdown
-<https://profjulianoramos.github.io>
+<https://profjulianoramos.github.io/linux>
 ```
 
 ## Lista de ítens
@@ -234,8 +234,3 @@ Agora tenho um grupo no telegram, para um bate papo mais direto sobre linux, apl
 
 
 
-
-## Veja também:
-- [Meus cursos](https://profjulianoramos.github.io/cursos/)
-- [Meu currículo](https://profjulianoramos.github.io/curriculo/)
-- [Aula particular e consultoria](https://profjulianoramos.github.io/consultoria/)
