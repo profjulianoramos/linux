@@ -9,7 +9,7 @@ O SSH é o método mais utilizado pelos Sysadmins, para acesseram seus hosts rem
 
 O protocolo SSH é muito seguro, mas isto não significa que você deva usar a configuração padrão do serviço cegamente.
 
-![ssh](/images/sshseguro.jpg)
+![ssh](/blog/images/sshseguro.jpg)
 
 **Aviso importante** 
 > Não siga as dicas cegamente. Leia e entenda se ela se adequa a sua necessidade. 
@@ -116,9 +116,3 @@ Agora tenho um grupo no telegram, para um bate papo mais direto sobre linux, apl
 
 <https://t.me/profjulianotux>
 
-
-
-## Veja também:
-- [Meus cursos](https://profjulianoramos.github.io/cursos/)
-- [Meu currículo](https://profjulianoramos.github.io/curriculo/)
-- [Aula particular e consultoria](https://profjulianoramos.github.io/consultoria/)
