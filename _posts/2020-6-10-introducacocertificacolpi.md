@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1- Introdução a Certificação LPIC-1
+title: Aula 0 - Introdução a Certificação LPIC-1
 date:   2020-06-10 16:00:20 +0530
 categories: Certificação lpi
 ---
@@ -11,21 +11,11 @@ Bom dia, boa tarde e boa noite! Se você ainda não me conhece, sou o professor 
 Esta nova série de publicações aqui no Blog, tem como objetivo, abordar o conteúdo da prova 101-500 da certificação LPI. 
 
 
-
-## Estude comigo
-
-Este livro é a base dos meus cursos. Você pode fazer um curso comigo com aulas gravadas pelo site:
-
-<https://www.certificacoes.net.br> 
-
-Ou se preferir, pode fazer um curso comigo, on-line ao-vivo com aula particular. Para isto é só me chamar, todos meus contatos estão aqui a esquerda da publicação.
-
-
 ### LPIC - Linux Professional Institute Certificate
 
 A LPI tem um conjunto de certificações que são independentes de distribuição de linux. Ou seja, você pode estudar para a prova usando qualquer distro linux.
 
-![11 cursos e livro](/images/lpi1.png)
+![11 cursos e livro](/blog/images/lpi1.png)
 
 
 
@@ -67,23 +57,9 @@ Link:
 <https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-10.4.0-amd64-netinst.iso>
 
 
-### Segunda e quarta, videoaula gratuíta. 
-
-Em nosso canal, vamos estar disponibilizando aulas, toda segunda e quarta-feira. O complemento em texto da aula, você visualiza aqui no blog.
-
-Veja nossa primeira aula:
-
-
-[![lpi](http://img.youtube.com/vi/DjjKle8Tiww/0.jpg)](http://www.youtube.com/watch?v=DjjKle8Tiww "lpi")
 
 ## Estou no Telegram
 Agora tenho um grupo no telegram, para um bate papo mais direto sobre linux, aplicativos, servidores e certificações.
 
 <https://t.me/profjulianotux>
 
-
-
-## Veja também:
-- [Meus cursos](https://profjulianoramos.github.io/cursos/)
-- [Meu currículo](https://profjulianoramos.github.io/curriculo/)
-- [Aula particular e consultoria](https://profjulianoramos.github.io/consultoria/)
