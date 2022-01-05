@@ -11,7 +11,7 @@ O **Packet Tracer** é um programa educacional gratuito que permite a você simu
 <https://pt.wikipedia.org/wiki/Packet_Tracer>
 
 
-![packet tracer linux](/images/packet.png)
+![packet tracer linux](/blog/images/packet.png)
 
 ### Instalação do packet tracer
 Em meus testes a versão 7.2.2 funcionou perfeitamente no Ubuntu 20.04 e no Linux Mint 20. 
@@ -42,13 +42,6 @@ Agora, execute pelo terminal :
 ```bash
 packettracer 
 ```
-
-
-### Veja também:
-- [Meus cursos](https://profjulianoramos.github.io/cursos/)
-- [Meu currículo](https://profjulianoramos.github.io/curriculo/)
-- [Aula particular e consultoria](https://profjulianoramos.github.io/consultoria/)
-
 
 Commits
 - 28/06/2020 - 15:14 - Upload da publicação.
