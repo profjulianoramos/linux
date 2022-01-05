@@ -24,19 +24,19 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: samarsault
-    github:  samarsault
-    linkedIn: in/samarsault
+    twitter: profjulianotux
+    github:  profjulianoramos
+    linkedIn: in/profjulianoramos
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
     #pinterest: jekyll
-    #youtube: jekyll
+    youtube: profjulianoramos
     #facebook: jekyll
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
-    #email: jekyll
+    email: profjulianoramos@gmail.com
 
     # Mastodon instances
     # mastodon:
