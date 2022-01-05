@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Curso RHCSA - O que é terminal?
+title: Aula 3 - Curso RHCSA - O que é terminal?
 date:   2021-04-03 03:21:00 +0530
 categories: Curso RHCSA
 ---
