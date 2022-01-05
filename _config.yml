@@ -10,6 +10,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
+  analytics_id: "< G-1R159C8JR9 >"
   name: Prof. Juliano Ramos
   tagline: Especialista Linux
   date_format: "%b %-d, %Y"
