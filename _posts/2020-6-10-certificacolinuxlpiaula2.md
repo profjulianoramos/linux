@@ -72,9 +72,6 @@ Clique na máquina criada e vá em configurações - Armazenamento e no CD, sele
 Aponte para a imagem do Debian que você fez o Download.
 
 
-## Assista a nossa segunda aula 
-
-[![aula2](http://img.youtube.com/vi/3w5RX7AAjDI/0.jpg)](http://www.youtube.com/watch?v=3w5RX7AAjDI "aula2")
 
 ## Estou no Telegram
 Agora tenho um grupo no telegram, para um bate papo mais direto sobre linux, aplicativos, servidores e certificações.
