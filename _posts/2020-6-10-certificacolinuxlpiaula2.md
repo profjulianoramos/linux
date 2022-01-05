@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2 - Certificação LPIC-1 - Preparando o ambiente
+title: Aula 2 - Certificação LPIC-1 - Preparando o ambiente
 date:   2020-06-10 16:57:10 +0530
 categories: Certificação lpi
 ---
@@ -40,34 +40,34 @@ Link para download:
 
 Abra o virtualbox e clique no botão novo:
 
-![botaonovo](/images/1virtualbox.png)
+![botaonovo](/blog/images/1virtualbox.png)
 
 Coloque o nome da máquina, escolha o tipo de sistema operacional e clique em próximo:
 
-![tipodesistema](/images/2virtualbox.png)
+![tipodesistema](/blog/images/2virtualbox.png)
 
 Defina o tamanho da memória RAM. Pode deixar 1024 para a instalação, mas depois, com 300MB roda de boa. 
 
-![memoriaram](/images/3virtualbox.png)
+![memoriaram](/blog/images/3virtualbox.png)
 
 
 Crie agora o seu disco virtual:
 
-![hd](/images/4virtualbox.png)
+![hd](/blog/images/4virtualbox.png)
 
 Escolha o tipo como **VDI (Virtualbox Disk Image)**. Escolha **Dinamicamente alocado**:
 
-![hdvirtual](/images/5virtualbox.png)
+![hdvirtual](/blog/images/5virtualbox.png)
 
 Defina o tamanho do disco:
 
-![virtualbox](/images/6virtualbox.png)
+![virtualbox](/blog/images/6virtualbox.png)
 
 Eu coloquei 50GB, porém, o sistema Debian após instalado, vai usar, cerca de 1,5GB do seu HD real. 
 
 Clique na máquina criada e vá em configurações - Armazenamento e no CD, selecione (Escolher uma imagem de disco):
 
-![imagem](/images/7virtualbox.png)
+![imagem](/blog/images/7virtualbox.png)
 
 Aponte para a imagem do Debian que você fez o Download.
 
@@ -82,8 +82,3 @@ Agora tenho um grupo no telegram, para um bate papo mais direto sobre linux, apl
 <https://t.me/profjulianotux>
 
 
-
-## Veja também:
-- [Meus cursos](https://profjulianoramos.github.io/cursos/)
-- [Meu currículo](https://profjulianoramos.github.io/curriculo/)
-- [Aula particular e consultoria](https://profjulianoramos.github.io/consultoria/)
