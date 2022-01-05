@@ -6,7 +6,7 @@ categories: servidor linux
 ---
 Você tem certeza de que seus usuários estão trabalhando com senhas seguras em seus servidores linux? Se não. Deixe o "estripador" responder.
 
-![passwords](/images/password.jpg)
+![passwords](/blog/images/password.jpg)
 
 > Eu demonstrarei o uso da ferramenta como um meio de testar as senhas de seus usuários em um servidor interno. O uso desta ferramenta fora desta intenção pode ter implicações legais. 
 
@@ -56,8 +56,3 @@ Commits:
 - Editado erro na refência do arquivo crack.senhas.db - 16/06/2020 - 14:19 (leitor Marcos, informou).
 
 
-
-## Veja também:
-- [Meus cursos](https://profjulianoramos.github.io/cursos/)
-- [Meu currículo](https://profjulianoramos.github.io/curriculo/)
-- [Aula particular e consultoria](https://profjulianoramos.github.io/consultoria/)
