@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comandos linux em uma página
+title: Comandos linux e instalação do Arch
 date:   2020-06-16 16:24:00 +0530
 categories: certificação lpi
 ---
