@@ -20,25 +20,25 @@ O **Boxes** é uma simples ferramenta de virtualização e manipulação de máq
 
 Clique em Atividades - boxes. 
 
-![boxes](/images/boxes.png)
+![boxes](/blog/images/boxes.png)
 
 Para criar uma máquina virtual, clique em **+** e depois em *criar uma máquina virtual...* 
 
 Você pode instalar de uma fonte (imagem .iso) ou realizar o Download de algumas distribuições, pela opção: Download do sistema operacional.
 
-![download iso linux](/images/boxes.gif)
+![download iso linux](/blog/images/boxes.gif)
 
 ### Instalação automatizada
 
 O Boxes possui uma opção de instalação expressa, na qual ele realiza para você a instalação do sistema operacional. Não são todos que possuem esta possibilidade. No caso do debian, ao apontar para a imagem .iso que eu tinha em meu computador, ele ofereceu esta disponibilidade:
 
-![boxes expressa](/images/boxes1.png)
+![boxes expressa](/blog/images/boxes1.png)
 
 Ativando a chave, você só precisa colocar um nome de usuário, para a conta administrativa e senha. 
 
 Clicando em **próximo** você pode personalizar o tamanho da memória e disco. Ao clicar em Criar o processo de instalação automatizado é iniciado. 
 
-![boxes automático](/images/boxes2.png)
+![boxes automático](/blog/images/boxes2.png)
 
 *Uma boa hora para um cafézinho...*
 
@@ -94,31 +94,25 @@ Inicie o gerenciador de máquinas virtuais pelo seu menu Atividades.
 
 Clique no ícone "Criar uma nova máquina virtual":
 
-![libvirt](/images/libv1.png)
+![libvirt](/blog/images/libv1.png)
 
 Escolha a mídia de instalação (Imagem ISO ou CDROM)
 
-![libvirt2](/images/libv2.png)
+![libvirt2](/blog/images/libv2.png)
 
 Clique em navegar e navegar localmente:
 
-![libvirt3](/images/libv3.png)
+![libvirt3](/blog/images/libv3.png)
 
 Aponte para sua imagem iso e clique em abrir - avançar.
 
 Selecione o tamanho da memória e quantas CPUs a máquina virtual vai utilizar:
 
-![libvirt4](/images/libv4.png)
+![libvirt4](/blog/images/libv4.png)
 
 Selecione um tamanho de disco rigido. Só resta finalizar a configuração. Você pode optar em personalizar antes da instalação, para configurações mais avançadas, ou simplesmente conluir.
 
-![libvirt5](/images/libv5.png)
-
-
-## Veja também:
-- [Meus cursos](https://profjulianoramos.github.io/cursos/)
-- [Meu currículo](https://profjulianoramos.github.io/curriculo/)
-- [Aula particular e consultoria](https://profjulianoramos.github.io/consultoria/)
+![libvirt5](/blog/images/libv5.png)
 
 
 Commits
