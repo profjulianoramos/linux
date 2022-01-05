@@ -7,7 +7,6 @@ categories: Desktop
 
 Conheça o aplicativo Calibre, que permite uma organização de todos seus e-books, seja em formato **.epub** e/ou **.pdf**.
 
-![calibre](/images/calibre.png)
 
 ### Instalação
 
@@ -25,15 +24,15 @@ Em seguida faça a instalação do Calibre:
 ### A primeira execução
 Assim que você abre o software, você deve criar um diretório para armazenar sua biblioteca de ebooks.
 
-![calibre](/images/calibre2.png)
+![calibre](/blog/images/calibre2.png)
 
 O próximo passo é selecionar o seu dispositivo book-reader. Eu como não tenho nenhum, apenas deixei na opção (Generic - Generic e-ink device).
 
-![biblioteca calibre](/images/calibre3.png)
+![biblioteca calibre](/blog/images/calibre3.png)
 
 O software é bastante intuitivo. Clique no ícone adicionar Livros e selecione seus e-books.
 
-![adicionando livros](/images/calibre4.png)
+![adicionando livros](/blog/images/calibre4.png)
 
 Agora aguarde o sistema, ler o metadados dos livros e organizar sua biblioteca. 
 
@@ -48,15 +47,9 @@ Você terá tudo categorizado por:
 
   E também, avaliações que você pode dar ao seu livro. 
 
-  ![Organização dos ebooks](/images/calibre5.png)
+  ![Organização dos ebooks](/blog/images/calibre5.png)
 
   Para ler seu ebook é só realizar um clique duplo sobre ele. O calibre possui mais ferramentas, incluindo uma aplicação para criação de e-books, mas deixo com vocês esta parte da diversão.
-
-
-## Veja também:
-- [Meus cursos](https://profjulianoramos.github.io/cursos/)
-- [Meu currículo](https://profjulianoramos.github.io/curriculo/)
-- [Aula particular e consultoria](https://profjulianoramos.github.io/consultoria/)
 
 
 Commits
