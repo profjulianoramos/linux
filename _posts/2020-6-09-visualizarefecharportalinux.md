@@ -21,7 +21,7 @@ As opções usadas são:
 - -p Lista o nome do processo que abriu a conexão
 - -n Não resolve nomes de serviço
 
-![portas](/images/portas.png)
+![portas](/blog/images/portas.png)
 
 Se você visualiza uma porta, mas não sabe a qual serviço ela pertence. Consulte esta lista:
 
@@ -35,7 +35,7 @@ Digamos que eu quero fechar a porta 22. Para isto eu executo o comando:
 sudo ufw deny 22
 ```
 
-![ufw](/images/ufw.png)
+![ufw](/blog/images/ufw.png)
 
 Para abrir a porta, usamos:
 
@@ -43,17 +43,9 @@ Para abrir a porta, usamos:
 sudo ufw allow 22
 ```
 
-![ufwallow](/images/ufw.png)
+![ufwallow](/blog/images/ufw.png)
 
 O UFW (Uncomplicated FireWall) não está presente em todas as distribuições. Por isto, eu ainda recomendo que você aprenda os comandos do bom e velho iptables.
-
-Eu tenho um curso Firewall com iptables, do básico ao avançado que faz parte do pacote de 15 cursos completos por R$ 160,00 do [Certificações NET.BR](https://true.certificacoes.net.br/linuxltc1/enrol/index.php?id=20)
-
- ## Sobre o autor:
-- [Meus cursos](https://profjulianoramos.github.io/cursos/)
-- [Meu currículo](https://profjulianoramos.github.io/curriculo/)
-- [Aula particular e consultoria](https://profjulianoramos.github.io/consultoria/)
-- [Meu livro sobre Servidores Linux](https://www.casadocodigo.com.br/products/livro-admin-linux?_pos=1&_sid=d71091948&_ss=r){:target="_blank"}
 
 
 Commits
