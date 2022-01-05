@@ -7,7 +7,7 @@ categories: desktop linux
 
 Muitas vezes você pode desejar compartilhar seu terminal para que alguém o ajude na solução de um problema. Se você quer fazer isto de uma forma rápida, sem depender de softwares como Teamviewer, anydesk e etc... E também, deixar a sessão apenas leitura para quem visualiza, conheça o **Streamhut**.
 
-![remote](/images/remote.png)
+![remote](blog/images/remote.png)
 
 
 ### O que é o Streamhut
@@ -55,12 +55,6 @@ Monitorar um processo ou programa:
 ```
 
 Neste exemplo, vou monitorar o tempo da máquina. O atraso de 5 segundos é para dar tempo de gerar a URL. 
-
-
-## Veja também:
-- [Meus cursos](https://profjulianoramos.github.io/cursos/)
-- [Meu currículo](https://profjulianoramos.github.io/curriculo/)
-- [Aula particular e consultoria](https://profjulianoramos.github.io/consultoria/)
 
 
 Commits
