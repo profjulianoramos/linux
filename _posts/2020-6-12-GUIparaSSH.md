@@ -6,7 +6,7 @@ categories: Desktop Linux
 ---
 Snowflake é uma GUI para o SSH que aumenta sua produtividade e torna as coisas mais divertidas. 
 
-![snowflake](/images/snow.png)
+![snowflake](/blog/images/snow.png)
 
 Todos os dias eu utilizo o shell do linux e conecto servidor SSH para fazer monitoria. As vezes tenho dezenas de servidores para verificar e mesmo usando terminais em abas e painéis, a tarefa é trabalhosa, principalmente ficar se logando nos hosts, copiando arquivos via scp e monitorando os recursos das máquinas.
 
@@ -32,32 +32,32 @@ Abra o Snowflake e clique em **new connection** preencha os campos como a primei
 
 Faça sua conexão. 
 
-![snowflake conectado](/images/snow1.png)
+![snowflake conectado](/blog/images/snow1.png)
 
 Você já será capaz de mover arquivo para o Host e vice-versa clicando e arrastando. Simples assim. :flushed:
 
 ## Abrindo arquivos 
 A aplicação também possui um editor próprio muito bom. Clique com o botão direito no arquivo que deseja editar/visualizar, selecione "Open with - internal editor". 
 
-![snowflake editor](/images/snow2.png)
+![snowflake editor](/blog/images/snow2.png)
 
 Além disto, você tem facilmente opções de renomear, excluir, copiar e etc...
 
 ## O terminal
 Clicando em terminal você já tem acesso ao Shell! O mais legal, você pode abrir mais terminais e trabalhar com múltiplos comandos ao mesmo tempo. 
 
-![snowflake](/images/snow3.png)
+![snowflake](/blog/images/snow3.png)
 
 ## Monitorando recursos
 Clicando em **System monitor** você tem acesso aos recursos do Host, simples assim! 
 
-![snow4](/images/snow4.png)
+![snow4](/blog/images/snow4.png)
 
 Aliás, é muito bonita a dashboard! 
 
 Em **Disk space analyzer** você visualiza o disco do host:
 
-![snow5](/images/snow5.png)
+![snow5](/blog/images/snow5.png)
 
 Na seção **Active Transfers** você monitora as transferências de dados entre sua máquina e o servidor.
 
@@ -67,7 +67,7 @@ Na seção **Linux Tools** você obtêm:
 - Serviços (systemd)
 - Processos e portas abertas
 
-![snow6](/images/snow6.png)
+![snow6](/blog/images/snow6.png)
 
 
 Você também pode gerar chaves criptográficas e usar algumas ferramentas de verificação de ping, porta, tracerout e dns lookup através de um simples clique. 
@@ -85,8 +85,3 @@ Agora tenho um grupo no telegram, para um bate papo mais direto sobre linux, apl
 
 <https://t.me/profjulianotux>
 
-
-## Veja também:
-- [Meus cursos](https://profjulianoramos.github.io/cursos/)
-- [Meu currículo](https://profjulianoramos.github.io/curriculo/)
-- [Aula particular e consultoria](https://profjulianoramos.github.io/consultoria/)
