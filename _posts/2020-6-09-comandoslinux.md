@@ -263,16 +263,6 @@ rpm -e pacote | Remove o pacote
 
 
 
-
-
-
-## Sobre o autor:
-- [Meus cursos](https://profjulianoramos.github.io/cursos/)
-- [Meu currículo](https://profjulianoramos.github.io/curriculo/)
-- [Aula particular e consultoria](https://profjulianoramos.github.io/consultoria/)
-- [Meu livro sobre Servidores Linux](https://www.casadocodigo.com.br/products/livro-admin-linux?_pos=1&_sid=d71091948&_ss=r){:target="_blank"}
-
-
 Commits
 - 16/06/2020 - 17:48 - Primeira atualização
 - 16/06/2020 - 18:29 - Adicionado Permissões e FHS
