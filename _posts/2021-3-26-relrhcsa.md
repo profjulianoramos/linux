@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introdução ao Red Hat RHCSA
+title: Aula 1 - Introdução ao Red Hat RHCSA
 date:   2021-03-26 17:49:00 +0530
 categories: Curso RHCSA
 ---
