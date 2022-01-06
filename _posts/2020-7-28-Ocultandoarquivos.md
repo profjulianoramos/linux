@@ -30,7 +30,7 @@ arquivo2
 diretorio
 ```
 
-![ocultar](/blog/images/ocultos.gif)
+![Arquivos ocultos](/blog/images/ocultos.gif)
 
 
 Os arquivos são visiveis com um simples `ls`. Porém no gestor de arquivos eles ficam ocultos. 
