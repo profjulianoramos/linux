@@ -27,3 +27,5 @@ A ferramenta também permite bloquear anúncios nos vídeos, controlar a velocid
 
 Link da extensão para o firefox:
 [clique aqui](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/?src=homepage-primary-hero)
+
+---
