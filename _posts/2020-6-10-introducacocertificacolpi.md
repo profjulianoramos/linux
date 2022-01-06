@@ -15,7 +15,7 @@ Esta nova série de publicações aqui no Blog, tem como objetivo, abordar o con
 
 A LPI tem um conjunto de certificações que são independentes de distribuição de linux. Ou seja, você pode estudar para a prova usando qualquer distro linux.
 
-![11 cursos e livro](/blog/images/lpi1.png)
+![11 cursos e livro](https://profjulianoramos.github.io/linux/blog/images/lpi1.png)
 
 
 
