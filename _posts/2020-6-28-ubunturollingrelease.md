@@ -7,7 +7,7 @@ categories: desktop
 
 *Martin Wimpress* lider do desenvolvimento do desktop Ubuntu, criou uma ferramenta chamada Rolling Rhino, que tem como objetivo converter uma imagem de compilação diária do Ubuntu em uma distro do tipo *Rolling Release*. Ativando e acompanhando a série ```devel``` de alterações de pacotes.
 
-![rolling rhino](/blog/images/rolling-rhino.jpg)
+![rolling rhino](https://profjulianoramos.github.io/linux/blog/images/rolling-rhino.jpg)
 
 O Rolling Rhino é destinado a desenvolvedores do Ubuntu e usuários experientes do Ubuntu que desejam instalar o ubuntu uma vez e acompanhar todas as atualizações. 
 
