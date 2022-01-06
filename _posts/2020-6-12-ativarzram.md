@@ -7,7 +7,7 @@ categories: Desktop Linux
 
 Se você utiliza linux a algum tempo, com certeza, conhece a área de troca, também chamada de SWAP. A partição swap é uma partição dedicada a ser usada quando um sistema utiliza um grande consumo de memória RAM. Quando isto ocorre, as páginas inativas são movidas da RAM para a partição swap.
 
-![zram em uso](/blog/images/zram.png)
+![zram em uso](https://profjulianoramos.github.io/linux/blog/images/zram.png)
 
 O problema da swap é que ela reside em uma unidade muita mais lenta que a RAM, ou seja, seu disco rígido. Então, quando seu sistema começa a usar a S:worried:
 
