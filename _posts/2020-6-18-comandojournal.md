@@ -7,7 +7,7 @@ categories: certificação lpi
 
 O **journalctl** pode ajudá-lo a a solucionar problemas, quando seu serviço não iniciar. 
 
-![systemd](/blog/images/systemd.png)
+![systemd](https://profjulianoramos.github.io/linux/blog/images/systemd.png)
 
 Se você utiliza uma distribuição linux atual, provavelmente, já está familiarizado com o **SystemD**. Quando algum serviço não inicializar, o systemD tem uma excelente ferramenta para a leitura de logs, o que já adianta muito o caminho para a solução do problema. Afinal, como você vai buscar uma solução, se não sabe o que ocasiona o erro?
 
@@ -20,11 +20,11 @@ journalct
 
 Observe que a saída mostra o mês, o dia do mês e a hora. 
 
-![log](/blog/images/log.png)
+![log](https://profjulianoramos.github.io/linux/blog/images/log.png)
 
 Saída de erros vão ser apresentadas em vermelho. Na minha saída, eu observei um erro:
 
-![log erro](/blog/images/log2.png)
+![log erro](https://profjulianoramos.github.io/linux/blog/images/log2.png)
 
 Então, corri no google para pesquisar sobre a mensagem apresentada. Neste caso em especial, descobri que meu pendrive (conectado a máquina) não possui um cache de disco (write-back) e o sistema "entendeu" que ele era um dispositivo SCSI (sdx) por isto, o erro/aviso.
 
@@ -56,7 +56,7 @@ Você pode executar o comando:
 journalctl --list-boots
 ```
 
-![log de boot](/blog/images/log3.png)
+![log de boot](https://profjulianoramos.github.io/linux/blog/images/log3.png)
 
 
 ### Visualizar por hora
