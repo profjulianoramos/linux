@@ -1,5 +1,0 @@
-<html>
-<head>
-<body>
-<h2> Desculpe, este site mudou de lugar: </h2>
-<a href="https://profjulianoramos.github.io/mentorialinux/">https://profjulianoramos.github.io/mentorialinux/</a>
