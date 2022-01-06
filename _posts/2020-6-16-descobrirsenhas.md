@@ -6,7 +6,7 @@ categories: servidor linux
 ---
 Você tem certeza de que seus usuários estão trabalhando com senhas seguras em seus servidores linux? Se não. Deixe o "estripador" responder.
 
-![passwords](/blog/images/password.jpg)
+![passwords](https://profjulianoramos.github.io/linux/blog/images/password.jpg)
 
 > Eu demonstrarei o uso da ferramenta como um meio de testar as senhas de seus usuários em um servidor interno. O uso desta ferramenta fora desta intenção pode ter implicações legais. 
 
