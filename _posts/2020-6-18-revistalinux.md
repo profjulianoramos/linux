@@ -9,14 +9,6 @@ A cada vinte postagens aqui do blog, vou compilar o conteúdo em uma revista dig
 
 Faça Download desta primeira edição agora mesmo!
 
-![magazine1](/images/capa.jpg)
+![magazine1](/blog/images/capa.jpg)
 
 [Download pelo MEGA](https://mega.nz/file/XSRQhArZ#BmxFOCVeSKWtSnklH3EALULh7o4YyQc-5E2BrRwhjrU)
-
-## Veja também:
-- [Meus cursos](https://profjulianoramos.github.io/cursos/)
-- [Meu currículo](https://profjulianoramos.github.io/curriculo/)
-- [Aula particular e consultoria](https://profjulianoramos.github.io/consultoria/)
-
-Commits
-- 18/06/2020 - 20:31 - Upload da publicação.
