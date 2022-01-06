@@ -7,12 +7,12 @@ categories: Desktop Linux
 
 Se você procura um browser minimalista, que te faça focar mais no conteúdo, que seja rápido e muito leve. Apresento-lhe o **Min Browser**. 
 
-![min browser](/blog/images/minbroser1.png)
+![min browser](https://profjulianoramos.github.io/linux/blog/images/minbroser1.png)
 
 
 Observe a imagem acima, o que você nota: Não tem barra para digitar a URL não é mesmo? Mas, é só você clicar ali em cima que ela aparece. 
 
-![search bart](/blog/images/searchbar.png)
+![search bart](https://profjulianoramos.github.io/linux/blog/images/searchbar.png)
 
 Agora o mais legal, é que ele é integrado com o **DuckDUckGo** e isto permite uma busca (quase que dinâmica) do conteúdo, enquanto você está digitando. Realmente é muito rápido.
 
@@ -20,7 +20,7 @@ Agora o mais legal, é que ele é integrado com o **DuckDUckGo** e isto permite 
 
 Lembra quando eu falei sobre focar no conteúdo. As abas ficam em um esquema de tarefa, que vocẽ abra através de um botão no cantinho do navegador. Veja:
 
-![video min](/blog/images/minbrowser.gif)
+![video min](https://profjulianoramos.github.io/linux/blog/images/minbrowser.gif)
 
 É muito rápido e prático! 
 
@@ -28,7 +28,7 @@ Lembra quando eu falei sobre focar no conteúdo. As abas ficam em um esquema de 
 
 O Min Browser permite que você bloqueie scripts e imagens. 
 
-![min browser 2](/blog/images/min3.png)
+![min browser 2](https://profjulianoramos.github.io/linux/blog/images/min3.png)
 
 ## Open-source
 O Min é escrito com Javascript, CSS e Electron. Seu código é aberto e distribuído no Github. 
