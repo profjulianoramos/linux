@@ -6,7 +6,7 @@ categories: Markdown
 ---
 **Mardown** é uma sintaxe usada para padronizar e facilitar formatação de texto na WEB, utilizada em aplicativos como o **slack** e aqui no **github**. 
 
-![markdown](/blog/images/markdown.png)
+![markdown](https://profjulianoramos.github.io/linux/blog/images/markdown.png)
 
 > O markdown funciona como um conversos de texto para o HTML.
 
@@ -18,7 +18,7 @@ Você pode criar um arquivo de markdown, em praticamente qualquer editor de text
 
 O typora permite editar seus texto em Markdown de uma forma mais visual. Ele é ótimo para quem esta iniciando. 
 
-![typora](/blog/images/typora.png)
+![typora](https://profjulianoramos.github.io/linux/blog/images/typora.png)
 
 Para instalar o Typora em seu Ubuntu, faça:
 
