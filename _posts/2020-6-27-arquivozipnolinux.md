@@ -99,10 +99,6 @@ unzip -l arquivo.zip
 ```
 
 
-## Veja também:
-- [Meus cursos](https://profjulianoramos.github.io/cursos/)
-- [Meu currículo](https://profjulianoramos.github.io/curriculo/)
-- [Aula particular e consultoria](https://profjulianoramos.github.io/consultoria/)
 
 
 Commits
