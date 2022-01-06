@@ -1,222 +1,105 @@
-# plainwhite
+<div align="center">
 
-Simplistic jekyll portfolio-style theme for writers.
+  # Chirpy Jekyll Theme
 
-**Demo**: [samarsault.com](https://samarsault.com)
+  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
-![plainwhite theme preview](/screenshot.png)
+  [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?color=brightgreen)](https://rubygems.org/gems/jekyll-theme-chirpy)
+  [![Build Status](https://github.com/cotes2020/jekyll-theme-chirpy/workflows/build/badge.svg?branch=master&event=push)](https://github.com/cotes2020/jekyll-theme-chirpy/actions?query=branch%3Amaster+event%3Apush)
+  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4e556876a3c54d5e8f2d2857c4f43894)](https://www.codacy.com/gh/cotes2020/jekyll-theme-chirpy/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=cotes2020/jekyll-theme-chirpy&amp;utm_campaign=Badge_Grade)
+  [![GitHub license](https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy.svg)](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE)
+  [![996.icu](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu)
 
-## Installation on Github Pages
+  [**Live Demo →**](https://cotes2020.github.io/chirpy-demo)
 
-Add this line to your site's `_config.yml`:
+  [![Devices Mockup](https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images@f4e0354b674f65a53b8917f0f786ed2956898cc1/commons/devices-mockup.png)](https://cotes2020.github.io/chirpy-demo)
 
-```yaml
-remote_theme: samarsault/plainwhite-jekyll
+</div>
+
+## Features
+
+- Localized Layout
+- Dark/Light Theme Mode
+- Pinned Posts
+- Hierarchical Categories
+- Last Modified Date for Posts
+- Table of Contents
+- Auto-generated Related Posts
+- Syntax Highlighting
+- Mathematical Expressions
+- Mermaid Diagram & Flowchart
+- Disqus/Utterances Comments
+- Search
+- Atom Feeds
+- Google Analytics
+- GA Pageviews Reporting
+- SEO & Performance Optimization
+
+
+## Quick Start
+
+Before starting, please follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of `Ruby`, `RubyGems`, `Jekyll`, and `Bundler`.
+
+### Step 1. Creating a New Site
+
+Create a new repository from the [**Chirpy Starter**](https://github.com/cotes2020/chirpy-starter/generate) and name it `<GH_USERNAME>.github.io`, where `GH_USERNAME` represents your GitHub username.
+
+### Step 2. Installing Dependencies
+
+Before running for the first time, go to the root directory of your site, and install dependencies as follows:
+
+```console
+$ bundle
 ```
 
-## Installation
+### Step 3. Running Local Server
 
-Add this line to your Jekyll site's `Gemfile`:
+Run the following command in the root directory of the site:
 
-```ruby
-gem "plainwhite"
+```console
+$ bundle exec jekyll s
 ```
 
-And add this line to your Jekyll site's `_config.yml`:
+Or run with Docker:
 
-```yaml
-theme: plainwhite
+```console
+$ docker run -it --rm \
+    --volume="$PWD:/srv/jekyll" \
+    -p 4000:4000 jekyll/jekyll \
+    jekyll serve
 ```
 
-And then execute:
+After a while, the local service will be published at _<http://127.0.0.1:4000>_.
 
-    $ bundle
+## Documentation
 
-Or install it yourself as:
-
-    $ gem install plainwhite
-
-## Usage
-
-The "plainwhite" key in \_config.yml is used to customize the theme data.
-
-```yaml
-plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
-  date_format: "%b %-d, %Y"
-
-  social_links:
-    twitter: samarsault
-    github: samarsault
-    linkedIn: in/samarsault # format: locale/username
-```
-
-**Updating Placeholder Image**
-
-The placeholder portfolio image can be replaced by the desired image by placing it as `assets/portfolio.png` in your jekyll website, or by changing the following line in `_config.yaml`
-
-```yaml
-plainwhite:
-  portfolio_image:  "assets/portfolio.png" # the path from the base directory of the site to the image to display (no / at the start)
-```
-
-To use a different image for dark mode, e.g. with different colors that work better in dark mode, add a `portfolio_image_dark` entry in addition to the `portfolio_image`.
-
-```yaml
-plainwhite:
-  portfolio_image:      "assets/portfolio.png"
-  portfolio_image_dark: "assets/portfolio_dark.png"
-```
-
-**Comments (Disqus)**
-
-Comments on posts can be enabled by specifying your disqus_shortname under plainwhite in `_config.yml`. For example,
-
-```yaml
-plainwhite:
-  disqus_shortname: games
-```
-
-**Google Analytics**
-
-It can be enabled by specifying your analytics id under plainwhite in `_config.yml`
-
-```yaml
-plainwhite:
-  analytics_id: "< YOUR ID >"
-```
-
-**Sitemap**
-
-It can be toggled by the following line to under plainwhite in `_config.yml`
-
-```yaml
-plainwhite:
-  sitemap: true
-```
-
-**Excerpts**
-
-Excerpts can be enabled by adding the following line to your `_config.yml`
-
-```yaml
-show_excerpts: true
-```
-
-**Layouts**
-
-- Home
-- Page
-- Post
-
-**Navigation**
-
-Navigation can be enabled by adding the following line to your `_config.yml`
-
-```yaml
-plainwhite:
-  navigation:
-    - title: My Work
-      url: "/my-work"
-    - title: Resume
-      url: "/resume"
-```
-
-**Mobile**
-
-By default, Plainwhite places the sidebar (logo, name, tagline etc.) above the content on mobile (narrow screens).
-To condense it (moving some things to the bottom of the page and making the rest smaller) so it takes up less space, add the following to your `_config.yml`:
-
-```yaml
-plainwhite:
-  condensed_mobile:
-    - home
-    - post
-    - page
-```
-
-This chooses which layouts (types of page) should be condensed on mobile screens. E.g. if you want everything but the landing page to be condensed, remove `home` from the list. This option does not affect rendering on wider screens.
-
-**Dark mode**
-
-Dark mode can be enabled by setting the `dark_mode` flag in your `_config.yml`
-
-The website will check the OS preferred color scheme and set the theme accordingly, the preference will then be saved in a cookie
-
-```yaml
-plainwhite:
-  dark_mode: true
-```
-
-![plainwhite dark theme previe](/dark.png)
-
-**Multiline tagline**
-
-Tagline can be multiline in this way
-
-```yaml
-plainwhite:
-  tagline: |
-  First Line. 
-
-  Second Line. 
-
-  Third Line.
-```
-
-**Search-bar**
-
-Search-bar can be enabled by adding the following line to `config.yml`
-
-```yaml
-plainwhite:
-  search: true
-```
-
-Search is powered by [Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search) Jekyll plugin. A `search.json` containing post meta and contents will be generated in site root folder. Plugin JavaScript will then match for posts based on user input. More info and `search.json` customization documentation can be found in plugin repository.
-
-**Base URL**
-
-You can specify a custom base URL (eg. example.com/blog/) by adding the following line to `_config.yaml`. Note that there is no trailing slash on the URL.
-
-```yaml
-baseurl: "/blog"
-```
-
-**Language**
-
-You can set the `lang` attribute of the `<html>` tag on your pages by changing the following line in `_config.yml`:
-
-```yaml
-plainwhite:
-  html_lang: "en"
-```
-
-[See here for a full list of available language codes](https://www.w3schools.com/tags/ref_country_codes.asp)
+For more details on usage, please refer to the tutorial on the [demo website](https://cotes2020.github.io/chirpy-demo/). At the same time, a copy of the tutorial is also available on the [Wiki](https://github.com/cotes2020/jekyll-theme-chirpy/wiki). Please note that the tutorial is based on the [latest release](https://github.com/cotes2020/jekyll-theme-chirpy/releases), and the features of the default branch are usually ahead of the documentation.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/samarsault/plainwhite-jekyll. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Welcome to report bugs, improve code quality or submit a new feature. For more information, see [contributing guidelines](.github/CONTRIBUTING.md).
 
-## Development
+## Credits
 
-To set up your environment to develop this theme, run `bundle install`.
+This theme is mainly built with [Jekyll](https://jekyllrb.com/) ecosystem, [Bootstrap](https://getbootstrap.com/), [Font Awesome](https://fontawesome.com/) and some other wonderful tools (their copyright information can be found in the relevant files). The avatar and favicon design come from [Clipart Max](https://www.clipartmax.com/middle/m2i8b1m2K9Z5m2K9_ant-clipart-childrens-ant-cute/).
 
-Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+:tada: Thanks to all the volunteers who contributed to this project, their GitHub IDs are on [this list](https://github.com/cotes2020/jekyll-theme-chirpy/graphs/contributors). Also, I won't forget those guys who submitted the issues or unmerged PR because they reported bugs, shared ideas or inspired me to write more readable documentation.
 
-When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
-To add a custom directory to your theme-gem, please edit the regexp in `plainwhite.gemspec` accordingly.
+Last but not least, thank [JetBrains][jb] for providing the open source license.
 
-## Donation
-If this project help you reduce time to develop, you can give me a cup of coffee :) 
+## Sponsoring
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/thelehhman)
+If you like this theme or find it helpful, please consider sponsoring me, because it will encourage and help me better maintain the project, I will be very grateful!
+
+[![Ko-fi](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ff5f5f?logo=ko-fi&logoColor=white)](https://ko-fi.com/coteschung)
+[![Wechat Pay](https://img.shields.io/badge/-Tip%20Me%20on%20WeChat-brightgreen?logo=wechat&logoColor=white)][cn-donation]
+[![Alipay](https://img.shields.io/badge/-Tip%20Me%20on%20Alipay-blue?logo=alipay&logoColor=white)][cn-donation]
 
 ## License
 
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+This work is published under [MIT](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE) License.
 
-## More themes
+<!-- ReadMe links -->
 
-- [Texture](https://github.com/samarsault/texture)
+[jb]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
+[cn-donation]: https://cotes.gitee.io/alipay-wechat-donation/
