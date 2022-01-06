@@ -54,11 +54,5 @@ Para link Hard:
 ln /caminho/do/arquivo nome_do_link
 ```
 
-## Veja também:
-- [Meus cursos](https://profjulianoramos.github.io/cursos/)
-- [Meu currículo](https://profjulianoramos.github.io/curriculo/)
-- [Aula particular e consultoria](https://profjulianoramos.github.io/consultoria/)
-
-
 Commits
 - 19/06/2020 - 18:33 - Upload da publicação.
