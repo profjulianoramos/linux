@@ -7,7 +7,7 @@ categories: ubuntu
 
 O moodle desktop é um app oficial do moodle para Microsoft Windows, Linux, Mac Os e Android. O software permite que você acesse seu site moodle (como o dos meus cursos) e de universidades, promovendo uma interface única e diferenciada.
 
-![desktop moodle](/blog/images/desktpmoodle.png)
+![desktop moodle](https://profjulianoramos.github.io/linux/blog/images/desktpmoodle.png)
 
 
 
@@ -23,22 +23,22 @@ No linux o software é distribuído como um *Appimage*, o que torna sua instala�
 
 Após o download, clique com o botão direito do mouse sobre o arquivo e escolha (extrair aqui):
 
-![extraindo o pacote](/blog/images/extrair.png)
+![extraindo o pacote](https://profjulianoramos.github.io/linux/blog/images/extrair.png)
 
 Clique no executável com o botão direito, entre em propriedades e marque (permitir que este arquivo execute como programa).
 
-![execução](/blog/images/exec.png)
+![execução](https://profjulianoramos.github.io/linux/blog/images/exec.png)
 
 Agora, clique duas vezes no arquivo.
 
-![moodle aberto](/blog/images/moodle1.png)
+![moodle aberto](https://profjulianoramos.github.io/linux/blog/images/moodle1.png)
 
 
 ## Conclusão
 
 O moodle desktop é uma ferramenta interessante que permite explorar o seu site moodle com um layout diferente. 
 
-![designer](/blog/images/designer.png)
+![designer](https://profjulianoramos.github.io/linux/blog/images/designer.png)
 
 
 
