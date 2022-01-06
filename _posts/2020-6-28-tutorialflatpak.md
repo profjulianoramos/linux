@@ -6,7 +6,7 @@ categories: desktop
 ---
 Entenda o que é e como utilizar pacotes Flatpak em sua distribuição de Linux. 
 
-![diagrama flatpak](/blog/images/diagram.svg)
+![diagrama flatpak](https://profjulianoramos.github.io/linux/blog/images/diagram.svg)
 
 Este diagrama, que está inclusive na documentação oficial do flatpak em *inglês* que você pode acessar [clicando aqui](https://docs.flatpak.org/en/latest/basic-concepts.html) resume um pouco o que é este modelo de empacotamento de software para linux, chamado flatpak. Neste artigo, com base na documentação oficial, foco nos principios baśicos do uso do flatpak, para um olhar mais detalhado, acesse o conteúdo oficial.
 
@@ -129,14 +129,6 @@ flatpak uninstall org.gimp.GIMP
 
 ### Referência
 <https://docs.flatpak.org/en/latest/>
-
-
-
-
-### Veja também:
-- [Meus cursos](https://profjulianoramos.github.io/cursos/)
-- [Meu currículo](https://profjulianoramos.github.io/curriculo/)
-- [Aula particular e consultoria](https://profjulianoramos.github.io/consultoria/)
 
 
 Commits
