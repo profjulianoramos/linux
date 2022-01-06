@@ -8,17 +8,17 @@ categories: Firefox
 Estou sempre em busca de ferramentas que tornem meu trabalho mais efetivo. Isto inclui, encontrar melhorias para minha produtividade. 
 
 
-![extensão youtube](/blog/images/youtube.png)
+![extensão youtube](https://profjulianoramos.github.io/linux/blog/images/youtube.png)
 
 A extensão *Enhancer for Youtube* permite personalizar o youtube, incluindo 15 temas do estilo Dark:
 
-![youtube dark](/blog/images/youtubedark.png)
+![youtube dark](https://profjulianoramos.github.io/linux/blog/images/youtubedark.png)
 
 Opção para destacar o player em uma janela pop-out. O que é bem diferente da opção de destacar o vídeo oferecida pelo navegador (que fica na mesma página). Deste modo, você pode, abrir outras abas com o vídeo sendo exibido. 
 
-![youtube popup](/blog/images/ytpopup.png)
+![youtube popup](https://profjulianoramos.github.io/linux/blog/images/ytpopup.png)
 
-![youtube video](/blog/images/player.gif)
+![youtube video](https://profjulianoramos.github.io/linux/blog/images/player.gif)
 
 O modo cinema também é interessante para quando você quer focar no que está assístindo. Já que todo site fica escuro e você só visualiza o player.
 
