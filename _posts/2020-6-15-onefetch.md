@@ -7,7 +7,7 @@ categories: Desktop Linux
 
 Se você deseja conhecer os detalhes de seu projeto de software rapidamente e de uma forma bem bonita pelo terminal, instale o **onefetch**. 
 
-![onefetch](/blog/images/kitty.png)
+![onefetch](https://profjulianoramos.github.io/linux/blog/images/kitty.png)
 
 O onefecth é uma ferramenta (CLI) que pode verificar diretórios e projetos baseados em GIT e fornecer um resumo elegante. Isso inclui a divisão de autores, informação de criação e alteração do repositório, composição do idioma, informação de licenciamento, linhas de código e etc... São suportadas cerca de 50 linguagens de programação.
 
