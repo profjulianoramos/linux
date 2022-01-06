@@ -9,13 +9,13 @@ O Linux lite é uma distribuição muito prática e intuitiva. Atualizar o kerne
 
 O sistema possui uma ferramenta que automatiza a instalação de uma nova versão do Kernel Linux. Você realiza esta tarefa com apenas alguns cliques do mouse. 
 
-![Kernel novo no Lite](/blog/images/kernellite.png)
+![Kernel novo no Lite](blog/images/kernellite.png)
 
 ## O processo de instalação
 
 Abra o utilitário **Lite Tweaks** no seu menu de inicio e escolha a opção **Kernel Installer**. Observe na imagem abaixo como é simples o processo:
 
-![gif kernel install](/blog/images/kernel.gif)
+![gif kernel install](blog/images/kernel.gif)
 
 Site oficial da distro:
 <https://www.linuxliteos.com/>
