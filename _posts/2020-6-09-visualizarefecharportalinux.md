@@ -21,7 +21,7 @@ As opções usadas são:
 - -p Lista o nome do processo que abriu a conexão
 - -n Não resolve nomes de serviço
 
-![portas](/blog/images/portas.png)
+![portas](https://profjulianoramos.github.io/linux/blog/images/portas.png)
 
 Se você visualiza uma porta, mas não sabe a qual serviço ela pertence. Consulte esta lista:
 
@@ -35,7 +35,7 @@ Digamos que eu quero fechar a porta 22. Para isto eu executo o comando:
 sudo ufw deny 22
 ```
 
-![ufw](/blog/images/ufw.png)
+![ufw](https://profjulianoramos.github.io/linux/blog/images/ufw.png)
 
 Para abrir a porta, usamos:
 
