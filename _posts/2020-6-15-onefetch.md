@@ -13,7 +13,7 @@ O onefecth é uma ferramenta (CLI) que pode verificar diretórios e projetos bas
 
 Veja minha saída do blog:
 
-![onefetch my](/blog/images/onefetch.png)
+![onefetch my](https://profjulianoramos.github.io/linux/blog/images/onefetch.png)
 
 
 ## Instalação 
