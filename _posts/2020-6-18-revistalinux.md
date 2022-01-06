@@ -9,6 +9,6 @@ A cada vinte postagens aqui do blog, vou compilar o conteúdo em uma revista dig
 
 Faça Download desta primeira edição agora mesmo!
 
-![magazine1](/blog/images/capa.jpg)
+![magazine1](https://profjulianoramos.github.io/linux/blog/images/capa.jpg)
 
 [Download pelo MEGA](https://mega.nz/file/XSRQhArZ#BmxFOCVeSKWtSnklH3EALULh7o4YyQc-5E2BrRwhjrU)
