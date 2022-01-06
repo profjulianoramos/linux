@@ -1,4 +1,11 @@
-# Comandos básicos do Linux
+---
+layout: post
+title: Aula 5 - Curso RHCSA - Comandos básicos de linux
+date:   2022-06-01 08:19:00 +0530
+categories: Curso RHCSA
+---
+
+Uma lista de comandos básicos de linux que são cobrados no exame RHCSA.
 
 ```
 uptime
