@@ -7,7 +7,7 @@ categories: desktop linux
 
 Muitas vezes você pode desejar compartilhar seu terminal para que alguém o ajude na solução de um problema. Se você quer fazer isto de uma forma rápida, sem depender de softwares como Teamviewer, anydesk e etc... E também, deixar a sessão apenas leitura para quem visualiza, conheça o **Streamhut**.
 
-![remote](/blog/images/remote.png)
+![remote](https://profjulianoramos.github.io/linux/blog/images/remote.png)
 
 
 ### O que é o Streamhut
