@@ -24,15 +24,15 @@ Em seguida faça a instalação do Calibre:
 ### A primeira execução
 Assim que você abre o software, você deve criar um diretório para armazenar sua biblioteca de ebooks.
 
-![calibre](/blog/images/calibre2.png)
+![calibre](https://profjulianoramos.github.io/linux/blog/images/calibre2.png)
 
 O próximo passo é selecionar o seu dispositivo book-reader. Eu como não tenho nenhum, apenas deixei na opção (Generic - Generic e-ink device).
 
-![biblioteca calibre](/blog/images/calibre3.png)
+![biblioteca calibre](https://profjulianoramos.github.io/linux/blog/images/calibre3.png)
 
 O software é bastante intuitivo. Clique no ícone adicionar Livros e selecione seus e-books.
 
-![adicionando livros](/blog/images/calibre4.png)
+![adicionando livros](https://profjulianoramos.github.io/linux/blog/images/calibre4.png)
 
 Agora aguarde o sistema, ler o metadados dos livros e organizar sua biblioteca. 
 
@@ -47,7 +47,7 @@ Você terá tudo categorizado por:
 
   E também, avaliações que você pode dar ao seu livro. 
 
-  ![Organização dos ebooks](/blog/images/calibre5.png)
+  ![Organização dos ebooks](https://profjulianoramos.github.io/linux/blog/images/calibre5.png)
 
   Para ler seu ebook é só realizar um clique duplo sobre ele. O calibre possui mais ferramentas, incluindo uma aplicação para criação de e-books, mas deixo com vocês esta parte da diversão.
 
