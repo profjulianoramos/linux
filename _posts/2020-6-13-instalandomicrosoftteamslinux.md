@@ -7,7 +7,7 @@ categories: Desktop Linux
 
 O Microsoft Teams agora possui versão para linux do seu cliente desktop. Aprenda a instalar e conectar-se com sua equipe de trabalho.
 
-![teams](/blog/images/teams.jpg)
+![teams](https://profjulianoramos.github.io/linux/blog/images/teams.jpg)
 
 A Microsoft dia a dia tem demonstrado mais respeito pelo linux e pelas ferramentas de código aberto. O Microsoft Teams é a primeira ferramenta do pacote MS Office a chegar no linux, e pode não ser a última.
 
@@ -20,25 +20,25 @@ Neste [link](https://www.microsoft.com/pt-br/microsoft-365/microsoft-teams/downl
 
 No caso do Ubuntu, basta fazer download e abrir com o instalador de softwares.
 
-![instalando](/blog/images/teamsb.jpg)
+![instalando](https://profjulianoramos.github.io/linux/blog/images/teamsb.jpg)
 
 
 ## Se conectando ao Teams
 
 Após a instalação, inicie o aplicativo. Digite o seu endereço Microsoft no campo abaixo.
 
-![teams conta](/blog/images/teamsg.jpg)
+![teams conta](https://profjulianoramos.github.io/linux/blog/images/teamsg.jpg)
 
 Provavelmente ele irá solicitar novamente o login e senha.
 
 Selecione sua equipe.
 
-![teams](/blog/images/teamsi.jpg)
+![teams](https://profjulianoramos.github.io/linux/blog/images/teamsi.jpg)
 
 Clique em continuar. 
 
 
-![teams](/blog/images/teamsj.jpg)
+![teams](https://profjulianoramos.github.io/linux/blog/images/teamsj.jpg)
 
 ## Conclusão
 Embora muitos ainda hoje se recusem a usar soluções da microsoft como o Visual Studio Code (meu editor favorito) e o Teams, estas aplicações são uma realidade no mundo corporativo. A capacidade de se poder executar estes aplicativos no linux, pode ser o pontapé inicial para que as empresas cada vez mais adotem o pinguim como uma solução para as estações de trabalho.
