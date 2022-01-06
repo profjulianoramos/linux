@@ -28,7 +28,7 @@ Você pode acessar o host e o devido local executando:
 
 Simples assim:
 
-![gif animada](/blog/images/ssh.gif)
+![gif animada](https://profjulianoramos.github.io/linux/blog/images/ssh.gif)
 
 
 Se você sempre acessa este host e este diretório, pode ser ainda mais produtivo criando um pequeno script:
@@ -60,7 +60,7 @@ chmod +x script.sh
 
 E seja seja mais feliz.
 
-![gif animada2](/blog/images/ssh2.gif)
+![gif animada2](https://profjulianoramos.github.io/linux/blog/images/ssh2.gif)
 
 
 ## Conclusão
