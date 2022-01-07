@@ -44,3 +44,25 @@ Adicionando linha conteúdo com cat
 cat >>arquivo.txt
 novo conteudo aqui e <ctrl>+<c> para sair
 ```
+
+# Navegar e listar diretórios
+
+Usamos como padrão o **ls** para listar arquivos e diretórios.
+
+```
+touch cria_arquivo.txt
+```
+
+Diferentes modos de listar:
+
+```
+ls ~
+ls /
+ls /etc
+ls -l
+ls -al
+ls -lh
+ls -ls
+ls -R
+ls *.txt
+```
