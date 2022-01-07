@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aula 13  - Curso RHCSA - Lendo arquivo de texto.
-date:   2022-01-06 15:26:00 +0530
+date:   2022-01-07 08:36:00 +0530
 categories: Curso RHCSA
 ---
 Neste tópico vamos aprender como ler um arquivo de texto usando os comandos básicos do linux. Também indico um **pdf** para download com conteúdo sobre a estrutura de arquivos linux, conhecida como FHS - File Hierarchy Standard. 
