@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Segurança em Servidor Linux - Cron e AT
-date:   2022-01-1 09:55:00 +0530
+date:   2022-01-11 09:55:00 +0530
 categories: Segurança
 ---
 Uma falha de segurança comum em servidores linux é deixar todos os usuários com o direito de criar agendamento no cron, padrão em quase todas as distribuições de linux.
