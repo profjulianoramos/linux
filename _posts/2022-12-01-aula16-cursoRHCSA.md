@@ -11,7 +11,6 @@ Vamos aprender nesta aula como comprimir e extrair arquivos nos formatos:
 - gzip
 - xz
 
-------
 
 Copie o conteúdo do diretório /etc para /tmp/laboratorio
 
