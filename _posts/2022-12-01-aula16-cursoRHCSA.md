@@ -1,18 +1,12 @@
 ---
 layout: post
 title: Aula 16 - Curso RHCSA - Comprimindo e extraindo arquivos
-date:   2022-01-12 08:16:00 +0530
+date:   2022-01-12 08:44:00 +0530
 categories: Curso RHCSA
 ---
 
-Vamos aprender nesta aula como comprimir e extrair arquivos nos formatos:
-
-- bz2
-- gzip
-- xz
-
-
-Copie o conteúdo do diretório /etc para /tmp/laboratorio
+Vamos aprender nesta aula como comprimir e extrair arquivos nos formatos bz2,gip e xz.
+Para iniciar, Copie o conteúdo do diretório /etc para /tmp/laboratorio:
 
 ```
 cp -rvf /etc/ /tmp/laboratorio
