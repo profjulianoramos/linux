@@ -4,7 +4,7 @@ title: Mudanças no Linux Mint
 date:   2022-01-13 14:39:00 +0530
 categories: Segurança
 ---
-Não é novidade para ninguém que usa o Linux Mint, que seu fundador e desenvolvedor Clem Lefebvre tem "aversão" a pacotes **[SNAP](https://en.wikipedia.org/wiki/Snap_(package_manager)**. A decisão de não aceitar por padrão este tipo de software, acarretou em uma mudança relevante não só no sistema operacional (parte técnica) como em como o projeto ganha dinheiro. Entenda o caso.
+Não é novidade para ninguém que usa o Linux Mint, que seu fundador e desenvolvedor Clem Lefebvre tem "aversão" a pacotes **[SNAP](https://en.wikipedia.org/wiki/Snap_(package_manager))**. A decisão de não aceitar por padrão este tipo de software, acarretou em uma mudança relevante não só no sistema operacional (parte técnica) como em como o projeto ganha dinheiro. Entenda o caso.
 
 Cada versão do Linux Mint é baseada na versão de suporte de longo prazo do Ubuntu. O Mint 20 é baseado no Ubuntu 20.04. Apesar da dificuldade em se contabilizar o número de downloads, já que existem centenas de repositórios gratuitos espalhados pelo globo, estima-se que o Mint está em terceiro ou quarto lugar entre as distribuições domésticas de linux, superando sua própria distribuição upstream, o Ubuntu.
 
