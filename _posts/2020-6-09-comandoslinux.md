@@ -271,4 +271,5 @@ Commits
 - 16/06/2020 - 20:51 - Adicionado pacotes RPM
 - 16/06/2020 - 21:12 - Alterado erro de escrita no atalho CTRL+Z (Rogério Chagas)
 - 21/06/2020 - 11:58 - Linha 186 FHS mnt estava escrito mnnt, observação de (Inseto social)
+- 21/05/2022 - adicionado comando rpm -e
   
