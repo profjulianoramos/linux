@@ -4,6 +4,7 @@ title: Verificar processos em porta específica
 date:   2022-28-05 07:07:00 +0530
 categories: Sysadmin
 ---
+
 Neste pequeno guia, mostraremos diferentes maneiras de encontrar o processo/serviço escutando em uma determinada porta no Linux.
 
 ## Usando o comando netstat
