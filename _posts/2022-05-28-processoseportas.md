@@ -36,6 +36,7 @@ No comando acima os parametros:
 | p | Mostra o ID do processo e seu nome |
 | grep -w | Mostra a correspondência exata da string (:80)|
 
+
 ## Comando lsof
 O comando `lsof` (List Open Files) é usado para listar todos os arquivos abertos em um sistema linux.
 
