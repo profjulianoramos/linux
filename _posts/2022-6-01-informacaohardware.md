@@ -79,3 +79,4 @@ cat /proc/cpuinfo
 lscpu
 dmidecode -t processor
 ```
+- Vamos que vamos.
