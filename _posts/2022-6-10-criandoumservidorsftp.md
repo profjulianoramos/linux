@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Criando um servidor SFTP no linux
-date:   2020-06-10 11:08:16 +0530
+date:   2022-06-10 11:08:16 +0530
 categories: Servidor Linux
 ---
 
