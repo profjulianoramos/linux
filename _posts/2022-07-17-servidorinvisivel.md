@@ -4,7 +4,7 @@ title: Servidor Camuflado e Invisivel
 date:   2022-07-17 20:22:00 +0530
 categories: Segurança
 ---
-É possível deixar o servidor invisível na internet e mesmo assim acessá-lo em um ambiente seguro via linha de comando shell. 
+É possível deixar o servidor invisível na internet e mesmo assim acessá-lo em um ambiente seguro via linha de comando. 
 
 ## Port Knocking
 O servidor pode ser camuflado para o mundo externo (internet) fechando-se todas as portas, esta técnica chama-se *Port Knocking*. 
