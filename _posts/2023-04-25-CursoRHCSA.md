@@ -30,7 +30,7 @@ Recomendado
 
 O Red Hat precisa de uma licença e um cadastro para seu download. Na opção "Developers" isto é gratuito.
 
-Acesse: [https://developers.redhat.com/sites/default/files/styles/large/public/Logo-Red_Hat-Enterprise_Linux_8-B-Standard-RGB.png?itok=keWYSR8I](https://developers.redhat.com/sites/default/files/styles/large/public/Logo-Red_Hat-Enterprise_Linux_8-B-Standard-RGB.png?itok=keWYSR8I)
+Acesse: [https://developers.redhat.com/products/rhel/download](https://developers.redhat.com/products/rhel/download)
 
 Após a instalação do RHEL abra um terminal e digite:
 
@@ -121,3 +121,5 @@ Reinicie o sistema.
 
 
 > Documento atualizado no dia 25 de Abril de 2023.
+>
+> Corrigido: Link download para RHEL
