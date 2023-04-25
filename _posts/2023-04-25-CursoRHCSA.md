@@ -4,6 +4,8 @@ title: Curso RHCSA 2023 - Aula 1
 date:   2023-04-25 08:27:00 +0530
 categories: RHCSA
 ---
+Este curso é sobre o conteúdo da certificação RHCSA atualizado 2023. Acompanhe as próximas publicações.
+
 # Introdução ao curso Red Hat RHCSA
 
 ![Bem Vindo](https://developers.redhat.com/sites/default/files/styles/large/public/RHEL-helloworld.png?itok=kTPVSU3E)
