@@ -89,4 +89,43 @@ Isso executará o script usando o interpretador Bash e você verá a mensagem "O
 
 Pronto! Você criou e executou seu primeiro script em shell Bash. A partir daqui, você pode continuar aprendendo e explorando recursos mais avançados do Bash para automatizar tarefas e realizar várias outras operações no sistema.
 
+## Um exemplo básico para iniciantes
+Aqui está um exemplo básico de um script em shell Bash para iniciantes:
 
+```shell
+#!/bin/bash
+
+# Exemplo de script Bash para soma de dois números
+
+# Solicitar ao usuário para inserir o primeiro número
+
+
+echo "Digite o primeiro número:"
+read numero1
+
+# Solicitar ao usuário para inserir o segundo número
+echo "Digite o segundo número:"
+read numero2
+
+# Realizar a soma dos números
+soma=$((numero1 + numero2))
+
+# Exibir o resultado da soma
+echo "A soma de $numero1 e $numero2 é igual a $soma."
+```
+
+Nesse exemplo, o script solicita ao usuário que insira dois números e, em seguida, calcula e exibe a soma dos números fornecidos.
+
+
+Para executar o script:
+
+- Abra um editor de texto e salve o código acima em um arquivo com a extensão ".sh", por exemplo, "soma.sh".
+- Abra o terminal e navegue até o diretório onde o arquivo do script foi salvo.
+- Tornar o arquivo do script executável com o comando `chmod +x soma.sh`.
+- Execute o script com o comando ./soma.sh.
+- O script solicitará que você insira dois números. Digite os números e pressione Enter.
+- O script calculará a soma dos números e exibirá o resultado.
+
+Esse é apenas um exemplo básico para ajudar você a começar com o shell Bash. À medida que você se familiariza com a linguagem e seus recursos, poderá criar scripts mais complexos e realizar uma variedade de tarefas no sistema operacional.
+
+Aprender shell pode ser muito divertido, não tenha medo, aventure-se.
