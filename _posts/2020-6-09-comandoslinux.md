@@ -5,7 +5,7 @@ date:   2020-06-16 16:24:00 +0530
 categories: certificação lpi
 ---
 
-Os comandos mais utilizados do mundo linux, incluindo a instalação do Arch linux, em apenas uma página.
+Os comandos mais utilizados do mundo linux, incluindo a instalação do Arch linux, em apenas uma página do linux.
 
 
 ## Comandos bash
