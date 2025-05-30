@@ -5,7 +5,7 @@ date:   2020-06-16 16:24:00 +0530
 categories: certificação lpi
 ---
 
-Os comandos mais utilizados do mundo linux, incluindo a instalação do Arch linux, em apenas uma página do linux 2.
+Os comandos mais utilizados do mundo linux, incluindo a instalação do Arch linux, em apenas uma página do linux 2. 
 
 
 ## Comandos bash
@@ -16,7 +16,7 @@ uname -a  | Informação do sistema e Kernel
 head -n1 /etc/issue | Informação da distribuição
 mount | Mostra dispositivos montados
 date | Mostra data do sistema
-uptime | Tempo de uso do host
+uptime | Tempo de uso da máquina (host)
 whoami | Mostra seu usuário
 man comando | Página de manual do comando
 
