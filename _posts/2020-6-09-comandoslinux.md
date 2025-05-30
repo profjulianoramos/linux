@@ -15,7 +15,7 @@ Comando | Descrição
 uname -a  | Informação do sistema e Kernel
 head -n1 /etc/issue | Informação da distribuição
 mount | Mostra dispositivos montados
-date | Mostra data do sistema
+date | Mostra data do sistema (host)
 uptime | Tempo de uso da máquina (host)
 whoami | Mostra seu usuário
 man comando | Página de manual do comando
