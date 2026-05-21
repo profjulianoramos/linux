@@ -11,7 +11,7 @@ Se você assim como eu está sempre em busca de ser mais efetivo em suas ações
 
 Conhecimento básico em conexão remota usando o SSH.
 
-## Ação prática
+## Ação prática de hoje
 
 Suponha que você tem um host de IP: 192.168.1.7 e você deseja acessá-lo para manipular arquivos que estão no diretório:
 
